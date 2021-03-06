@@ -1,6 +1,6 @@
 # EyeTracking-to-find-the-AreaofInterest
 
-This project is about trasking the user eye movement and finding the particular **Area of Interest** from the whole screen. Its application starts from using it give more personalised advertisements based on which region our eye is looking upon, It can be used to detect our concentration level by monitoring our eye movement etc
+This project is about tracking the user eye movement and finding the particular **Area of Interest** from the whole screen. Its application starts from using it give more personalised advertisements based on which region our eye is looking upon, It can be used to detect our concentration level by monitoring our eye movement etc
 
 
 You might find the code under the name "GazeTracking_main". before executing the code you might need some prerequisite which can be found in the last part of this file
