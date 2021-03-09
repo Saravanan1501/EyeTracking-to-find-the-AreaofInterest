@@ -19,6 +19,10 @@ Model output is available under the name "Model Stastical data"
 
 
 
-**prerequisite:** Python 3.5(preferred), Dlib, Haarcascade classifier, open-cv, numpy
+**prerequisite:** 
+* Python 3.5(preferred)
+* Dlib
+* Haarcascade classifier
+* open-cv, numpy
 
 
